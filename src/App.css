@@ -4,28 +4,21 @@
   background-color: black;
 }
 
-
+.Headline{
+  color: white;
+}
 
 .Phone{
   height: 100vh;
+  width: 100%;
   z-index: 1000;
   top: 0;
   position: sticky;
-  right: 33%;
   pointer-events: none;
 }
 
 .Fragebogen{
-  width: 380px;
+  width: 20%;
   z-index: 100;
-  top: -865px;
-  position: relative;
-}
-.Footer{
-  width: 100%;
-  position: fixed;
-  background-color: black;
-  z-index: 1000000;
-  height: 12vh;
-  bottom: 0;
+  top: 120px;
 }

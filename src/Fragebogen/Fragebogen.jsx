@@ -14,11 +14,9 @@ const Fragebogen = () => {
         "Ich stelle gerne neue Produkte vor﻿",
         "Ich kann mich schnell in komplexe Sachverhalte einarbeiten﻿",
         "In meiner Freizeit bin ich stets bemüht neue Kenntnisse zu erlernen﻿",
-        "Ich interessiere mich stets für die neusten Trends und kenne mich gut mit Popkultur aus﻿",
         "Variablen in Mathe machen mir Angst﻿",
         "Wenn mein PC den Geist aufgibt, versuche ich das Probleme selber zu lösen anstatt direkt einen Techniker zu rufen﻿",
         "Anstatt Gespräche zu beginnen warte ich, bis jemand anderes das Wort ergreift﻿",
-        "Ich gehe gerne auf neue Leute zu und ergreife die Initiative﻿",
         "Ich bezeichne mich selbst als sehr kreativ﻿",
         "Ich habe Freude daran,  technischen Problemen auf den Grund zu gehen, auch wenn es manchmal zeitaufwändig﻿"
     ];
@@ -43,6 +41,7 @@ const Fragebogen = () => {
     const myRef = useRef()
 
     return(
+
         <div className="Fragebogen" onChange={onChangeHandler}>
 
             {Questions.map(element => (
