@@ -10,6 +10,16 @@
     overflow: scroll;
 }
 
+.TestHeader{
+    color: white;
+    padding: 10%;
+}
+
+.TestText2{
+    font-style: italic;
+    font-size: 0.7em;
+}
+
 
 .ErgebnisButton{
     margin-top: 20px;

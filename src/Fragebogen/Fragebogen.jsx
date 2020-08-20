@@ -43,7 +43,11 @@ const Fragebogen = () => {
     return(
 
         <div className="Fragebogen" onChange={onChangeHandler}>
-
+            <div className="TestHeader">
+                <h1 className="TestHeadline">TESTE DICH</h1>
+                <p className="TestText1">Finde heraus welche Ausbildung die richtige für dich sein könnte!</p>
+                <p className="TestText2">Dein Testergebnis wird nicht gespeichert</p>
+            </div>
             {Questions.map(element => (
                 <Frage number={Questions.indexOf(element)} question={Questions[Questions.indexOf(element)]} ref={myRef}/>
             ))}
