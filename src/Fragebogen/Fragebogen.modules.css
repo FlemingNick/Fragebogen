@@ -1,15 +1,15 @@
 .Fragebogen {
-    width: 411px;
-    min-height: 100vh;
-    border: 2px solid black;
+    width: 370px;
     background-color: rgb(88, 79, 111);
     margin-left: 50%;
     transform: translate(-50%);
+    top: -900px;
+    bottom: 0;
 }
 
 .ErgebnisButton{
     margin-top: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
     height: 70px;
     width: 130px;
     border: 2px solid white;
