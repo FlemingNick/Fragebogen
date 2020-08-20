@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Fragebogen/static/css/main.da5526d2.chunk.css",
+    "main.css": "/Fragebogen/static/css/main.1ea596ad.chunk.css",
     "main.js": "/Fragebogen/static/js/main.0172d8df.chunk.js",
     "main.js.map": "/Fragebogen/static/js/main.0172d8df.chunk.js.map",
     "runtime-main.js": "/Fragebogen/static/js/runtime-main.f854fb0e.js",
@@ -8,15 +8,15 @@
     "static/js/2.c0cdc67a.chunk.js": "/Fragebogen/static/js/2.c0cdc67a.chunk.js",
     "static/js/2.c0cdc67a.chunk.js.map": "/Fragebogen/static/js/2.c0cdc67a.chunk.js.map",
     "index.html": "/Fragebogen/index.html",
-    "precache-manifest.76c7b6d02fb257fdbbc93eaf94140c45.js": "/Fragebogen/precache-manifest.76c7b6d02fb257fdbbc93eaf94140c45.js",
+    "precache-manifest.3d9f7b0e5cce6fc527bfb2283e3a076a.js": "/Fragebogen/precache-manifest.3d9f7b0e5cce6fc527bfb2283e3a076a.js",
     "service-worker.js": "/Fragebogen/service-worker.js",
-    "static/css/main.da5526d2.chunk.css.map": "/Fragebogen/static/css/main.da5526d2.chunk.css.map",
+    "static/css/main.1ea596ad.chunk.css.map": "/Fragebogen/static/css/main.1ea596ad.chunk.css.map",
     "static/js/2.c0cdc67a.chunk.js.LICENSE.txt": "/Fragebogen/static/js/2.c0cdc67a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f854fb0e.js",
     "static/js/2.c0cdc67a.chunk.js",
-    "static/css/main.da5526d2.chunk.css",
+    "static/css/main.1ea596ad.chunk.css",
     "static/js/main.0172d8df.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28a6f8f959b3dd4503152a4de5ccd67f",
+    "revision": "6b825d3da5c0d29611a44db025cd0a1a",
     "url": "/Fragebogen/index.html"
   },
   {
-    "revision": "2caf8a4e3a9d74a378f4",
-    "url": "/Fragebogen/static/css/main.da5526d2.chunk.css"
+    "revision": "cd15ec075a61cd31d8c8",
+    "url": "/Fragebogen/static/css/main.1ea596ad.chunk.css"
   },
   {
     "revision": "91ef430e9a08b729c38d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Fragebogen/static/js/2.c0cdc67a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2caf8a4e3a9d74a378f4",
+    "revision": "cd15ec075a61cd31d8c8",
     "url": "/Fragebogen/static/js/main.0172d8df.chunk.js"
   },
   {
