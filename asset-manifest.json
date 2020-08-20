@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Fragebogen/static/css/main.3bed3894.chunk.css",
-    "main.js": "/Fragebogen/static/js/main.88f7aa88.chunk.js",
-    "main.js.map": "/Fragebogen/static/js/main.88f7aa88.chunk.js.map",
+    "main.css": "/Fragebogen/static/css/main.6fefa762.chunk.css",
+    "main.js": "/Fragebogen/static/js/main.2ebfc6fe.chunk.js",
+    "main.js.map": "/Fragebogen/static/js/main.2ebfc6fe.chunk.js.map",
     "runtime-main.js": "/Fragebogen/static/js/runtime-main.f854fb0e.js",
     "runtime-main.js.map": "/Fragebogen/static/js/runtime-main.f854fb0e.js.map",
     "static/js/2.87305d3c.chunk.js": "/Fragebogen/static/js/2.87305d3c.chunk.js",
     "static/js/2.87305d3c.chunk.js.map": "/Fragebogen/static/js/2.87305d3c.chunk.js.map",
     "index.html": "/Fragebogen/index.html",
-    "precache-manifest.afea0a4281d5ef92cf587d0d940a1d4b.js": "/Fragebogen/precache-manifest.afea0a4281d5ef92cf587d0d940a1d4b.js",
+    "precache-manifest.a8ecf0fd6f9f67507b96891382ec97bd.js": "/Fragebogen/precache-manifest.a8ecf0fd6f9f67507b96891382ec97bd.js",
     "service-worker.js": "/Fragebogen/service-worker.js",
-    "static/css/main.3bed3894.chunk.css.map": "/Fragebogen/static/css/main.3bed3894.chunk.css.map",
+    "static/css/main.6fefa762.chunk.css.map": "/Fragebogen/static/css/main.6fefa762.chunk.css.map",
     "static/js/2.87305d3c.chunk.js.LICENSE.txt": "/Fragebogen/static/js/2.87305d3c.chunk.js.LICENSE.txt",
-    "static/media/phone.png": "/Fragebogen/static/media/phone.061bde6f.png"
+    "static/media/iPhone.png": "/Fragebogen/static/media/iPhone.ff64b978.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f854fb0e.js",
     "static/js/2.87305d3c.chunk.js",
-    "static/css/main.3bed3894.chunk.css",
-    "static/js/main.88f7aa88.chunk.js"
+    "static/css/main.6fefa762.chunk.css",
+    "static/js/main.2ebfc6fe.chunk.js"
   ]
 }

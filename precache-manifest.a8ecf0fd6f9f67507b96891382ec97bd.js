@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c82ebf5ffb8496972ec90420ef09f3b0",
+    "revision": "02eafc1b28d3216e0e96bdd9273dcd30",
     "url": "/Fragebogen/index.html"
   },
   {
-    "revision": "1cdc3c26c12748b14251",
-    "url": "/Fragebogen/static/css/main.3bed3894.chunk.css"
+    "revision": "6ffb653062bda74f76b3",
+    "url": "/Fragebogen/static/css/main.6fefa762.chunk.css"
   },
   {
     "revision": "702ea72d4c79953a0eb1",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Fragebogen/static/js/2.87305d3c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1cdc3c26c12748b14251",
-    "url": "/Fragebogen/static/js/main.88f7aa88.chunk.js"
+    "revision": "6ffb653062bda74f76b3",
+    "url": "/Fragebogen/static/js/main.2ebfc6fe.chunk.js"
   },
   {
     "revision": "bdc2fba179c2a2cec317",
     "url": "/Fragebogen/static/js/runtime-main.f854fb0e.js"
   },
   {
-    "revision": "061bde6f8e8a60d1bfed7ce6652904ec",
-    "url": "/Fragebogen/static/media/phone.061bde6f.png"
+    "revision": "ff64b97876f855e421ccf7e23af245c5",
+    "url": "/Fragebogen/static/media/iPhone.ff64b978.png"
   }
 ]);
