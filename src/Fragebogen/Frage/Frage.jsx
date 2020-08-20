@@ -52,6 +52,35 @@ const Frage = React.forwardRef((props, ref) => {
                     <input type="radio"  name={props.number} value="-2"/>
                     <input type="radio"  name={props.number} value="-3"/>
                 </div>
+               {/* <div className="Inputs">
+                    <label className="RadioButton">
+                        <input type="radio"  name={props.number} value="3" checked="checked"/>
+                        <span className="checkmark"></span>
+                    </label>
+                    <label className="RadioButton">
+                        <input type="radio"  name={props.number} value="2" checked="checked"/>
+                        <span className="checkmark"></span>
+                    </label>
+                    <label className="RadioButton">
+                        <input type="radio"  name={props.number} value="1" checked="checked"/>
+                        <span className="checkmark"></span>
+                    </label>
+                    <label className="RadioButton">
+                        <input type="radio"  name={props.number} value="-1" checked="checked"/>
+                        <span className="checkmark"></span>
+                    </label>
+                    <label className="RadioButton">
+                        <input type="radio"  name={props.number} value="-2" checked="checked"/>
+                        <span className="checkmark"></span>
+                    </label>
+                    <label className="RadioButton">
+                        <input type="radio"  name={props.number} value="-3" checked="checked"/>
+                        <span className="checkmark"></span>
+                    </label>
+
+
+                </div>*/}
+
                 <ul className="AntwortSpektrum">
                     <li>Stimmt!</li>
                     <li>Stimmt nicht!</li>

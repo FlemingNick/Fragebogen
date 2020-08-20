@@ -42,7 +42,6 @@ const Fragebogen = () => {
 
     const myRef = useRef()
 
-
     return(
         <div className="Fragebogen" onChange={onChangeHandler}>
 
