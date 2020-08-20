@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Fragebogen from './Fragebogen/Fragebogen'
-import Phone from './Fragebogen/phone.png'
+import Phone from './Fragebogen/iPhone.png'
 
 function App() {
   return (
@@ -9,6 +9,7 @@ function App() {
         <div className="FragebogenContainer">
             <img src={Phone} className="Phone"/>
             <Fragebogen className="Fragebogen"/>
+
         </div>
 
 
